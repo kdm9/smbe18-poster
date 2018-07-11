@@ -12,4 +12,4 @@ Eucalypts are key tree species in most Australian ecosystems. Grassy woodland Eu
 
 ## Contact
 
-Kevin can be contacted at <FIRSTNAME at kdmurray.id.au>.
+Kevin can be contacted at `FIRSTNAME at kdmurray.id.au`.
